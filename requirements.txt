@@ -1,0 +1,2 @@
+httpx[asyncio]>=0.25.0
+dnspython>=2.4.0
